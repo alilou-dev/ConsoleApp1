@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>TestGithub</id>
+    <version>1.0.0</version>
+    <authors>TestGithub</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="ea86646de2e3d7648466a8926e17481be2648b1e" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\ALI\DevER\TestGithub\TestGithub\bin\Release\net8.0\TestGithub.runtimeconfig.json" target="lib\net8.0\TestGithub.runtimeconfig.json" />
+    <file src="C:\Users\ALI\DevER\TestGithub\TestGithub\bin\Release\net8.0\TestGithub.dll" target="lib\net8.0\TestGithub.dll" />
+  </files>
+</package>

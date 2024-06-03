@@ -1,0 +1,15 @@
+C:\Users\ALI\DevER\TestGithub\TestGithub\bin\Release\net8.0\TestGithub.exe
+C:\Users\ALI\DevER\TestGithub\TestGithub\bin\Release\net8.0\TestGithub.deps.json
+C:\Users\ALI\DevER\TestGithub\TestGithub\bin\Release\net8.0\TestGithub.runtimeconfig.json
+C:\Users\ALI\DevER\TestGithub\TestGithub\bin\Release\net8.0\TestGithub.dll
+C:\Users\ALI\DevER\TestGithub\TestGithub\bin\Release\net8.0\TestGithub.pdb
+C:\Users\ALI\DevER\TestGithub\TestGithub\obj\Release\net8.0\TestGithub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALI\DevER\TestGithub\TestGithub\obj\Release\net8.0\TestGithub.AssemblyInfoInputs.cache
+C:\Users\ALI\DevER\TestGithub\TestGithub\obj\Release\net8.0\TestGithub.AssemblyInfo.cs
+C:\Users\ALI\DevER\TestGithub\TestGithub\obj\Release\net8.0\TestGithub.csproj.CoreCompileInputs.cache
+C:\Users\ALI\DevER\TestGithub\TestGithub\obj\Release\net8.0\TestGithub.sourcelink.json
+C:\Users\ALI\DevER\TestGithub\TestGithub\obj\Release\net8.0\TestGithub.dll
+C:\Users\ALI\DevER\TestGithub\TestGithub\obj\Release\net8.0\refint\TestGithub.dll
+C:\Users\ALI\DevER\TestGithub\TestGithub\obj\Release\net8.0\TestGithub.pdb
+C:\Users\ALI\DevER\TestGithub\TestGithub\obj\Release\net8.0\TestGithub.genruntimeconfig.cache
+C:\Users\ALI\DevER\TestGithub\TestGithub\obj\Release\net8.0\ref\TestGithub.dll
